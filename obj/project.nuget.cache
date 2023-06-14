@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICblZs3MahrUn382ywRLWL2MIjLsZU/SIBgPj5K/jUDRf/io7zIYkxOdveGKWDJxVLYIEJlXFImNzI53HaKUjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A.Krapp\\Desktop\\TestundÜbungsprojekte\\Checkliste\\Checkliste\\Checkliste.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Sie führen den Vorgang „restore“ mit der HTTP-Quelle „http://PES13:8111/httpAuth/app/nuget/feed/_Root/PENuget/v1“ aus. Nicht-HTTPS-Zugriff wird in einer zukünftigen Version entfernt. Erwägen Sie die Migration zu einer HTTPS-Quelle."
+    }
+  ]
+}

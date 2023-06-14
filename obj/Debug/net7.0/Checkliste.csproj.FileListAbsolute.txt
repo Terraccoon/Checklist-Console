@@ -1,0 +1,15 @@
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\bin\Debug\net7.0\Checkliste.exe
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\bin\Debug\net7.0\Checkliste.deps.json
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\bin\Debug\net7.0\Checkliste.runtimeconfig.json
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\bin\Debug\net7.0\Checkliste.dll
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\bin\Debug\net7.0\Checkliste.pdb
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\obj\Debug\net7.0\Checkliste.csproj.AssemblyReference.cache
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\obj\Debug\net7.0\Checkliste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\obj\Debug\net7.0\Checkliste.AssemblyInfoInputs.cache
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\obj\Debug\net7.0\Checkliste.AssemblyInfo.cs
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\obj\Debug\net7.0\Checkliste.csproj.CoreCompileInputs.cache
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\obj\Debug\net7.0\Checkliste.dll
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\obj\Debug\net7.0\refint\Checkliste.dll
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\obj\Debug\net7.0\Checkliste.pdb
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\obj\Debug\net7.0\Checkliste.genruntimeconfig.cache
+C:\Users\A.Krapp\Desktop\TestundÜbungsprojekte\Checkliste\Checkliste\obj\Debug\net7.0\ref\Checkliste.dll
